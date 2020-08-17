@@ -5,4 +5,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamage&theme=dracula" />
 </a>
 
-[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/karamage)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/karamage/contributions.svg)](http://qiita.com/karamage)
