@@ -4,3 +4,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamage&theme=dracula" />
 </a>
+
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mikkame/contributions.svg)](http://qiita.com/karamage)
