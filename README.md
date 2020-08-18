@@ -6,3 +6,5 @@
 </a>
 
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/karamage/contributions.svg)](http://qiita.com/karamage)
+
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/karamage/followers.svg)](http://qiita.com/karamage)
