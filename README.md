@@ -5,6 +5,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karamage&theme=dracula" />
 </a>
 
+[![Twitter](https://img.shields.io/twitter/follow/kara_mage?style=social)](https://twitter.com/kara_mage)
+
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/karamage/contributions.svg)](http://qiita.com/karamage)
 
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/karamage/followers.svg)](http://qiita.com/karamage)
