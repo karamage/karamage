@@ -11,6 +11,7 @@
 https://www.wantedly.com/users/17834562
 https://lapras.com/public/FNEHBJX
 
+趣味は個人開発です。
 
 
 「もくもく集中カフェ」を開発中
