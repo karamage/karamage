@@ -8,6 +8,7 @@
 
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/karamage/followers.svg)](http://qiita.com/karamage)
 
+https://zenn.dev/karamage
 https://www.wantedly.com/users/17834562
 https://lapras.com/public/FNEHBJX
 
