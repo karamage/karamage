@@ -13,8 +13,7 @@ https://www.wantedly.com/users/17834562
 https://lapras.com/public/FNEHBJX
 
 趣味は個人アプリ開発です。
+My感謝日記」など個人で開発。TVでも紹介され20万DL突破
 
-
-「」を開発中
-
+現在、「Focus Cafe」を開発中
 https://focus-cafe.space/
