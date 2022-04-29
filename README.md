@@ -12,9 +12,9 @@ https://zenn.dev/karamage
 https://www.wantedly.com/users/17834562
 https://lapras.com/public/FNEHBJX
 
-趣味は個人開発です。
+趣味は個人アプリ開発です。
 
 
-「もくもく集中カフェ」を開発中
+「」を開発中
 
 https://focus-cafe.space/
