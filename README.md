@@ -15,3 +15,7 @@ https://lapras.com/public/FNEHBJX
 趣味は個人アプリ開発です。
 
 「My感謝日記」など個人で開発。TVでも紹介され20万DL突破
+https://apps.apple.com/jp/app/id1353758977
+
+「Focus Cafe - Webポモドーロタイマー」
+https://focus-cafe.space/
