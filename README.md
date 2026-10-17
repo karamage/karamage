@@ -19,3 +19,9 @@ https://apps.apple.com/jp/app/id1353758977
 
 「Focus Cafe - Webポモドーロタイマー」
 https://focus-cafe.space/
+
+「AI人類滅亡シミュレータ」
+https://ai-extinction.win/
+
+「AI人狼ゲーム Angel Halo」
+https://angel-halos.app/
