@@ -25,3 +25,6 @@ https://ai-extinction.win/
 
 「AI人狼ゲーム Angel Halo」
 https://angel-halos.app/
+
+「日本で生まれ直して架空の人生を過ごす、80億分の1ライクなAI人生ゲーム」
+https://1975.gripe/
